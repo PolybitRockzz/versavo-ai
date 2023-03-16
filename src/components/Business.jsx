@@ -22,13 +22,15 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        Personalized papers, <br className="sm:block hidden" />
+        and career counseling.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      We offer personalized exam prep, career analysis, 
+      and counseling services using advanced analytics 
+      and cutting-edge technology. Our team has expertise 
+      in finance, management, execution, strategy, and 
+      technology, with a focus on the Indian education sector.
       </p>
 
       <Button styles={`mt-10`} />
